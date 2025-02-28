@@ -1,4 +1,4 @@
-# AI-Text-Streamer-using-TinySolar-248m-4k
+# AI Text Streamer using TinySolar-248m-4k from upstage
 
 ## Description
 
