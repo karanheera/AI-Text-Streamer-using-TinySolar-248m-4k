@@ -12,7 +12,7 @@ This app allows users to complete unfinished text prompts using a pre-trained la
 
 ## Demo
 
-You can try the app by entering an incomplete sentence in the text box. The AI will complete it with the next part of the sentence. Adjust the temperature to change how creative or deterministic the generated continuation is.
+Go to https://huggingface.co/spaces/karanheera/AI-Text-Streamer-using-TinySolar-248m-4k and You can try the app by entering an incomplete sentence in the text box. The AI will complete it with the next part of the sentence. Adjust the temperature to change how creative or deterministic the generated continuation is.
 
 ## Technologies Used
 
@@ -73,7 +73,7 @@ Provide an incomplete sentence or prompt in the text box. For example, you can t
 Use the temperature slider to adjust the creativity level of the generated text. A lower temperature results in more deterministic and logical output, while a higher temperature gives more random and creative results.
 
 ### Generate Text
-Once you enter your prompt and adjust the temperature, the model will generate a continuation for your input text. The generated text will be displayed below the input area.
+Once you enter your prompt and adjust the temperature, the model will generate a continuation for your input text. The generated text will be displayed below the output area.
 
 ## License
 
