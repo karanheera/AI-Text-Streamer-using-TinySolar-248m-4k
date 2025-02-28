@@ -12,7 +12,8 @@ This app allows users to complete unfinished text prompts using a pre-trained la
 
 ## Demo
 
-Go to https://huggingface.co/spaces/karanheera/AI-Text-Streamer-using-TinySolar-248m-4k and You can try the app by entering an incomplete sentence in the text box. The AI will complete it with the next part of the sentence. Adjust the temperature to change how creative or deterministic the generated continuation is.
+Go to Demo URL: https://huggingface.co/spaces/karanheera/AI-Text-Streamer-using-TinySolar-248m-4k
+You can try the app by entering an incomplete sentence in the text box. The AI will complete it with the next part of the sentence. Adjust the temperature to change how creative or deterministic the generated continuation is.
 
 ## Technologies Used
 
