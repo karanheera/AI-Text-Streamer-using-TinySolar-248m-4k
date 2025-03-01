@@ -16,6 +16,9 @@ Go to Demo URL: https://huggingface.co/spaces/karanheera/AI-Text-Streamer-using-
 
 You can try the app by entering an incomplete sentence in the text box. The AI will complete it with the next part of the sentence. Adjust the temperature to change how creative or deterministic the generated continuation is.
 
+## Model Used
+**TinySolar-248m-4k** is a compact yet powerful Large Language Model (LLM) developed by Upstage AI. With 248 million parameters, it delivers performance comparable to larger models like GPT-3.5 while being significantly faster and more efficient.
+
 ## Technologies Used
 
 - **Gradio**: A Python library for building interactive machine learning demos.
