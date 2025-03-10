@@ -11,9 +11,6 @@ This app allows users to complete unfinished text prompts using a pre-trained la
 - **Supports Multi-platforms**: Works on both CPU and GPU (if available), providing flexibility for different hardware configurations.
 
 ## Demo
-
-Go to Demo URL: https://huggingface.co/spaces/karanheera/AI-Text-Streamer-using-TinySolar-248m-4k
-
 You can try the app by entering an incomplete sentence in the text box. The AI will complete it with the next part of the sentence. Adjust the temperature to change how creative or deterministic the generated continuation is.
 
 ## Model Used
